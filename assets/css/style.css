@@ -34,6 +34,16 @@ h1 {
 .active {
     border-bottom: 1px solid #3a3a3a;
 }
+nav {
+
+    position: absolute;
+    background-color: #ffffff;
+    width: 100%;
+    padding: 0 1rem;
+    box-shadow: 0 2px 2px #3a3a3a;
+    display: none;
+}
+
 header {
     background-color: #fff;
     padding: 0 1rem;
