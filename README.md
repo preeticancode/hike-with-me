@@ -1,7 +1,40 @@
 ### HIKE WITH ME 
 ## Welcome to Hike with Me! 
 
+# Table Of Contents
+
+
+- [Hike With Us](#milestone-1-project--hike-with-us)
+
+- [Introduction](#introduction)
+
+- [Features](#features)
+    - [Navigation Bar](#Navigation)
+    - [The landing page image](#thelandingpageimage)
+    - [What We Offer](#What-we-offer)
+    - [Trail Information](#Trail-Information)
+    - [The Footer](#The-Footer)
+    - [Gallery](#gallery)
+    - [The Sign Up Page](#The-Sign-Up-Page)
+
+- [Testing](#testing)
+    - [Validation](#Validation)
+    - [Responsiveness](#Responsiveness)
+  
+- [Unfixed Bugs](#Unfixed-Bugs)
+  
+- [Deployment](#Deployment)
+
+- [Credits](#Credits)
+   - [Content](#Content)
+   - [Media](#Media)
+ 
+- [Acknowledgements] (#Acknowledgements)
+
+
 ![alt-text](documents/responsive.png)
+
+## Introduction
 
 This page is dedicated to community of hiking enthusiasts from all across Ireland. Our mission is to bring together people who share a passion for hiking, whether you're an experienced trekker or just starting out. Join us to explore Ireland's stunning trails, discover new places, and make lasting friendships.
 
@@ -112,3 +145,4 @@ I would like to take the opportunity to thank:
 
 
 [def]: /workspace/my-kitchen/documents/responsive.png
+[def2]: #features
