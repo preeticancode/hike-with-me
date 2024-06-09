@@ -22,7 +22,7 @@ h1, h2, h3 {
     font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: #252525;
+    color: #931515;
 }
 
 .hidden-heading {
@@ -206,20 +206,22 @@ main {
     background-image: url("../images/signup-image.webp");
     background-size: cover;
     background-position: 75%;
-    padding: 20px 10% 0 10%;
+    padding: 10px 10% 0 10%;
     flex-grow: 1;
+    height: 700px;
+    width: 100%;
 }
 
 
 #signup-form {
-    color: #ffffff;
-    background-color: rgba(60, 60, 60, 0.6);
-    padding: 30px;
+    color: #c2c5c2;
+    background-color: rgba(8, 13, 7, 0.6);
+    padding: 50px;
 }
 
 
 #signup-form>h2 {
-    color: #fafafa;
+    color: #b41313;
     margin-bottom: 20px;
 }
 
@@ -248,7 +250,7 @@ main {
     border-radius: 2px;
     padding: 15px 32px;
     font-size: 100%;
-    background-color: #454b1b;
+    background-color: #752323;
     color: #fafafa;
 }
 
@@ -337,6 +339,7 @@ main {
     /* Gallery */
     #photos {
         column-count: 3;
+        
     }
 
     /* Form */
@@ -370,7 +373,8 @@ main {
 
     /* Gallery */
     #photos {
-        column-count: 4;
+        column-count: 3;
+        
     }
 }
 
