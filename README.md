@@ -1,7 +1,9 @@
 ### HIKE WITH ME 
 ## Welcome to Hike with Me! 
 
-This page is to dedicated community of hiking enthusiasts from all across Ireland. Our mission is to bring together people who share a passion for hiking, whether you're an experienced trekker or just starting out. Join us to explore Ireland's stunning trails, discover new places, and make lasting friendships.
+![alt-text](documents/responsive.png)
+
+This page is dedicated to community of hiking enthusiasts from all across Ireland. Our mission is to bring together people who share a passion for hiking, whether you're an experienced trekker or just starting out. Join us to explore Ireland's stunning trails, discover new places, and make lasting friendships.
 
 ## Features 
 - __Navigation Bar__
@@ -64,18 +66,20 @@ Need to update
 
 The site was deployed to GitHub pages. The steps taken to deploy are as follows:
 1. Log in to [Github](https://github.com/)
-2. Navigate to [preeticancode/my-kitchen](https://github.com/preeticancode/my-kitchen.git) in the list of repositories
+2. Navigate to [preeticancode/HIKE-WITH-ME](https://github.com/preeticancode/HIKE-WITH.gitME) in  
+   the list of repositories
 3. In the GitHub repository, navigate to the [Settings] tab
 4. In Settings scroll down to [GitHub pages] which opens in a new page.
 5. From the source section drop-down menu, select the Master Branch
 6. Once the master branch has been selected, the page is automatically refreshed and a display indicates the successful deployment and the link to the address.
 
 The link to the live website is here:
+https://preeticancode.github.io/HIKE-WITH-ME/
 
 
 ## Credits 
 
-Need to add
+
 
 ### Content 
 
@@ -105,3 +109,6 @@ I would like to take the opportunity to thank:
 
 
 
+
+
+[def]: /workspace/my-kitchen/documents/responsive.png
