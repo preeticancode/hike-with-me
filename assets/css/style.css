@@ -231,7 +231,7 @@ main {
 
 /* Gallery page */
 #photos img {
-    width: 100%;
+    width: 90%;
     line-height: 1em;
     display: inline-block;
     margin: 20px;
@@ -393,7 +393,7 @@ footer {
 
     /* Gallery */
     #photos {
-        column-count: 3;
+        column-count: 2;
         
     }
 
@@ -428,7 +428,7 @@ footer {
 
     /* Gallery */
     #photos {
-        column-count: 3;
+        column-count: 2;
         
     }
 }
