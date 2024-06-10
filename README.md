@@ -1,4 +1,7 @@
+
 ### HIKE WITH ME 
+***
+(By Preeti Singh)
 ## Welcome to Hike with Me! 
 
 # Table Of Contents
@@ -76,6 +79,34 @@ This page is dedicated to community of hiking enthusiasts from all across Irelan
 
   - This page will allow the user to get signed up to Love Running to start their hikingjourney with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
 
+- __Wireframe__
+
+<details open>
+<summary>Wireframe - Homepage Desktop & Mobile</summary>  
+
+![homepage wireframe-mobile & desktop](readme-img/wire1.png)
+</details> 
+<details >
+<summary>Wireframe - Gallery page Desktop</summary>  
+
+![homepage wireframe-mobile & desktop](readme-img/wire2.png)
+</details> 
+<details>
+<summary>Wireframe - Gallery page Mobile</summary>  
+
+![homepage wireframe-mobile & desktop](readme-img/wire4.png)
+</details>    
+<details>
+<summary>Wireframe - SignUp page Desktop</summary>  
+
+![homepage wireframe-mobile & desktop](readme-img/wire3.png)
+</details> 
+<details>
+<summary>Wireframe - SignUp page Mobile</summary>  
+
+![homepage wireframe-mobile & desktop](readme-img/wire6.png)
+</details>              
+
 ## Testing 
 
 - __Validation__
@@ -89,6 +120,24 @@ This page is dedicated to community of hiking enthusiasts from all across Irelan
 
    The website was tested on numerous sized screens including Iphones 12 and 13,Samsung flip 5 , 15" laptop, 24" screen and Ipad and was found to respond as expected to all sizes.
 Chrome development tools was used throughout the design process to check responsiveness and breakpoints. Adjustments were made accordingly.
+
+- __Lighthouse Testing__
+
+    Lighthouse testing was performed by Google's open source tool, 
+    [Google Chrome DevTools](https://developers.google.com/web/tools/lighthouse). 
+
+   - index.html 
+
+    ![Lighthouse](readme-img/imglihthous.png)
+
+   - gallery.html
+
+   ![Lighthouse](readme-img/imlgallerylight.png)
+
+   - signup.html
+
+   ![Lighthouse](readme-img/imgsignuplight.png)
+
 
 
 ### Unfixed Bugs
