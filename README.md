@@ -19,10 +19,13 @@
     - [The Footer](#The-Footer)
     - [Gallery](#gallery)
     - [The Sign Up Page](#The-Sign-Up-Page)
+    - [Wireframe](#Wireframe)
+    - 
 
 - [Testing](#testing)
     - [Validation](#Validation)
     - [Responsiveness](#Responsiveness)
+    - [Lighthouse Testing](#Lighthouse-Testings)
   
 - [Unfixed Bugs](#Unfixed-Bugs)
   
@@ -80,32 +83,31 @@ This page is dedicated to community of hiking enthusiasts from all across Irelan
   - This page will allow the user to get signed up to Love Running to start their hikingjourney with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
 
 - __Wireframe__
+    <details open>
+    <summary>Wireframe - Homepage Desktop & Mobile</summary>  
 
-<details open>
-<summary>Wireframe - Homepage Desktop & Mobile</summary>  
+    ![homepage wireframe-mobile & desktop](readme-img/wire1.png)
+    </details> 
+     =<details >
+    <summary>Wireframe - Gallery page Desktop</summary>  
 
-![homepage wireframe-mobile & desktop](readme-img/wire1.png)
-</details> 
-<details >
-<summary>Wireframe - Gallery page Desktop</summary>  
+    ![homepage wireframe-mobile & desktop](readme-img/wire2.png)
+    </details> 
+    <details>
+    <summary>Wireframe - Gallery page Mobile</summary>  
 
-![homepage wireframe-mobile & desktop](readme-img/wire2.png)
-</details> 
-<details>
-<summary>Wireframe - Gallery page Mobile</summary>  
+    ![homepage wireframe-mobile & desktop](readme-img/wire4.png)
+    </details>    
+    <details>
+    <summary>Wireframe - SignUp page Desktop</summary>  
 
-![homepage wireframe-mobile & desktop](readme-img/wire4.png)
-</details>    
-<details>
-<summary>Wireframe - SignUp page Desktop</summary>  
+    ![homepage wireframe-mobile & desktop](readme-img/wire3.png)
+    </details> 
+    <details>
+    <summary>Wireframe - SignUp page Mobile</summary>  
 
-![homepage wireframe-mobile & desktop](readme-img/wire3.png)
-</details> 
-<details>
-<summary>Wireframe - SignUp page Mobile</summary>  
-
-![homepage wireframe-mobile & desktop](readme-img/wire6.png)
-</details>              
+    ![homepage wireframe-mobile & desktop](readme-img/wire6.png)
+    </details>              
 
 ## Testing 
 
