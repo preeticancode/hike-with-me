@@ -1,4 +1,7 @@
+/* google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&family=Rowdies:wght@300;400;700&display=swap');
 
+/* override default */
 
 * {
     padding: 0;
@@ -96,6 +99,7 @@ main {
     /* Enable flex properties for child elements */
     display: flex;
     flex-direction: column;
+    background-color: #cfc5c5;
 }
 
 /* Hero section */
@@ -227,6 +231,15 @@ main {
 #photos img {
     width: 100%;
     line-height: 1em;
+    display: inline-block;
+    margin: 20px;
+    overflow: hidden;
+    border-radius: 10px;
+    cursor: pointer;
+    position: relative;
+    transition: transform 0.3s ease-in-out;
+    box-shadow: 0 4px 8px #0000001A;
+    
 }
 
 #photos {
@@ -287,6 +300,14 @@ main {
 }
 
 /* Footer */
+footer {
+    height: fit-content;
+    margin-top: 10px;
+    text-align: center;   
+}
+
+
+
 #social-networks {
     text-align: center;
     padding: 20px 0;
