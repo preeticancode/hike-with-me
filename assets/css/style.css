@@ -1,7 +1,5 @@
-/* Google fonts import */
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&display=swap');
 
-/* Asterisk wildcard selector to override default styles added by the browser */
+
 * {
     padding: 0;
     margin: 0;
@@ -16,13 +14,16 @@ body {
     /* Generic project styles */
     color: #3a3a3a;
     font-family: 'Lato', sans-serif;
+  
 }
 
 h1, h2, h3 {
     font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: #931515;
+    color: #945353;
+    
+    
 }
 
 .hidden-heading {
@@ -83,7 +84,7 @@ nav {
 }
 
 .nav-toggle-label {
-    font-size: 2rem;
+    font-size: 3rem;
 }
 
 /* Main content */
@@ -115,7 +116,7 @@ main {
 
 #about-text {
     /* Final rgba value sets the opacity so it is semi-transparent */
-    background-color: rgba(179, 201, 175, 0.7);
+    background-color: rgba(198, 205, 196, 0.7);
     font-size: 130%;
     position: relative;
     bottom: 30px;

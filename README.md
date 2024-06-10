@@ -29,7 +29,7 @@
    - [Content](#Content)
    - [Media](#Media)
  
-- [Acknowledgements] (#Acknowledgements)
+- [Acknowledgements](#Acknowledgements)
 
 
 ![alt-text](documents/responsive.png)
@@ -130,8 +130,9 @@ https://preeticancode.github.io/HIKE-WITH-ME/
 ## Acknowledgements
 
 I would like to take the opportunity to thank:
-- My mentor ==== for his feedback, advice, guidance and support.
-- My husband Rajesh for his support, advice, help with testing, and for giving me some kids free time to work on my project.
+- My mentor David Bowers for his feedback, advice, guidance and support.
+- My husband Rajesh for his support, advice, help with testing, and for giving me some kids free 
+  time to work on my project.
 - To the lovely people on the Code Institute Slack for providing peer code reviews.
 - My friends and community memebers who are part of HIKE WITH ME.
 
