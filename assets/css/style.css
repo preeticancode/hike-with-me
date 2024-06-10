@@ -130,6 +130,17 @@ main {
     padding-left: 10px;
 }
 
+#about-cover-bg {
+    background: url('../images/aboutus.webp') no-repeat top center / cover;
+    height: 90vw;
+    width: 90vw;
+    margin-bottom: 20px;
+    /* Makes the square image into a circle */
+    border-radius: 50%;
+    max-width: 300px;
+    max-height: 300px;
+}
+
 #cover-text {
     /* Final rgba value sets the opacity so it is semi-transparent */
     background-color: rgba(241, 109, 107, .7);
@@ -184,16 +195,7 @@ main {
     max-height: 300px;
 }
 
-#about-cover-bg {
-    background: url('../images/aboutus.webp') no-repeat top center / cover;
-    height: 90vw;
-    width: 90vw;
-    margin-bottom: 20px;
-    /* Makes the square image into a circle */
-    border-radius: 50%;
-    max-width: 300px;
-    max-height: 300px;
-}
+
 
 #benefits-image {
     display: flex;
