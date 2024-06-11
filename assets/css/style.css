@@ -17,16 +17,18 @@ body {
     /* Generic project styles */
     color: #3a3a3a;
     font-family: 'Lato', sans-serif;
-  
+
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
     font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
     color: #945353;
-    
-    
+
+
 }
 
 .hidden-heading {
@@ -57,7 +59,7 @@ header a {
     list-style-type: none;
 }
 
-#menu > li {
+#menu>li {
     margin-bottom: 1em;
 }
 
@@ -120,12 +122,12 @@ main {
 
 #about-text {
     /* Final rgba value sets the opacity so it is semi-transparent */
-    background-color: rgba(198, 205, 196, 0.7);
-    font-size: 130%;
+    background-color: rgba(175, 203, 175, 0.7);
+    font-size: 100%;
     position: relative;
     bottom: 30px;
-    width: 80%;
-    min-height: 100px;
+    width: 50%;
+    min-height: 70px;
     padding-top: 40px;
     padding-left: 10px;
 }
@@ -153,7 +155,8 @@ main {
     padding-left: 10px;
 }
 
-#cover-text > h2, #cover-text > h3 {
+#cover-text>h2,
+#cover-text>h3 {
     color: #ffffff;
 }
 
@@ -169,8 +172,8 @@ main {
     font-size: 280%;
 }
 
-#benefits-physical > div,
-#benefits-mental > div {
+#benefits-physical>div,
+#benefits-mental>div {
     line-height: 20px;
     margin-bottom: 20px;
 }
@@ -241,7 +244,7 @@ main {
     position: relative;
     transition: transform 0.3s ease-in-out;
     box-shadow: 0 4px 8px #0000001A;
-    
+
 }
 
 #photos {
@@ -305,7 +308,7 @@ main {
 footer {
     height: fit-content;
     margin-top: 10px;
-    text-align: center;   
+    text-align: center;
 }
 
 
@@ -334,6 +337,7 @@ footer {
 
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
+
     /* Header */
     nav {
         display: block;
@@ -347,7 +351,7 @@ footer {
         display: flex;
     }
 
-    #menu > li {
+    #menu>li {
         padding-left: 1rem;
     }
 
@@ -381,12 +385,12 @@ footer {
         width: 100%;
     }
 
-    #benefits-physical > div,
-    #benefits-mental > div {
+    #benefits-physical>div,
+    #benefits-mental>div {
         width: 75%;
     }
 
-    #benefits-mental > div {
+    #benefits-mental>div {
         text-align: end;
         align-self: flex-end;
     }
@@ -394,7 +398,7 @@ footer {
     /* Gallery */
     #photos {
         column-count: 2;
-        
+
     }
 
     /* Form */
@@ -422,25 +426,26 @@ footer {
 
 /* Large devices (laptops and desktops, 992px and up) */
 @media screen and (min-width: 992px) {
-    #menu a:hover{
+    #menu a:hover {
         border-bottom: 1px solid #3a3a3a;
     }
 
     /* Gallery */
     #photos {
         column-count: 2;
-        
+
     }
 }
 
-@media screen and (min-width: 1200px) {    
+@media screen and (min-width: 1200px) {
+
     /* Reasons section */
     #benefits {
         display: flex;
         flex-direction: row;
     }
 
-    #benefits > div {
+    #benefits>div {
         flex: 1;
     }
 
@@ -452,16 +457,11 @@ footer {
         order: 1;
     }
 
-    #benefits-mental > div {
+    #benefits-mental>div {
         align-self: flex-start;
     }
 
-    #benefits-physical > div {
+    #benefits-physical>div {
         align-self: flex-end;
     }
 }
-
-
-
-
-
