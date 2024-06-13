@@ -3,6 +3,7 @@
 ***
 (By Preeti Singh)
 ## Welcome to Hike with Me! 
+## [Link to website](https://preeticancode.github.io/HIKE-WITH-ME/about.html)
 
 # Table Of Contents
 
