@@ -3,7 +3,7 @@
 
 ## Welcome to Hike with Me! 
 
-## [Link to Live Website](https://preeticancode.github.io/HIKE-WITH-ME/about.html)
+## [Link to Live Website](https://preeticancode.github.io/HIKE-WITH-ME/index.html)
 
 ***
 ***(By Preeti Singh)***
