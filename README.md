@@ -131,7 +131,7 @@ This page is dedicated to community of hiking enthusiasts from all across Irelan
     <summary>Wireframe - About Us Mobile</summary>  
 
     ![homepage wireframe-mobile & desktop](readme-img/wire6.png)
-    </details>                
+    </details>              
 
 ## Testing 
 

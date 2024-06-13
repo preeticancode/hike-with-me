@@ -164,27 +164,34 @@ main {
 #reasons {
     width: 90%;
     margin: 20px auto;
+    text-align: left;
 }
 
 #reasons h2 {
     margin-bottom: 20px;
     text-align: center;
     font-size: 280%;
+    text-align: left;
 }
 
 #benefits-physical>div,
 #benefits-mental>div {
     line-height: 20px;
     margin-bottom: 20px;
+    text-align: left;
+    
 }
+
 
 #benefits p {
     padding: 0 20px;
+    text-align: left;
 }
 
 #benefits hr {
     border-top: 1px solid #3a3a3a;
     margin: 5px 0;
+    text-align: left;
 }
 
 #circle-cover-bg {
@@ -206,12 +213,12 @@ main {
     justify-content: center;
 }
 
-/* Meetup Times section */
+/* Trail section */
 #times {
     background: url('../images/dublin-city.webp') no-repeat center/cover;
     /* Handles responsivity without the need for a media query */
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: inherit;
 }
 
 #times div {
@@ -223,7 +230,7 @@ main {
     Each div will expand to fill the available space on its row */
     flex-basis: 200px;
     flex-grow: 1;
-    /* Creates a grid of meetup time dives over the background image */
+    /* Creates a grid of trails dives over the background image */
     border: 2px solid white;
 }
 
