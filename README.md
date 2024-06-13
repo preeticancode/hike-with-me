@@ -1,9 +1,12 @@
 
-### HIKE WITH ME 
-***
-(By Preeti Singh)
+
+
 ## Welcome to Hike with Me! 
-## [Link to website](https://preeticancode.github.io/HIKE-WITH-ME/about.html)
+
+## [Link to Live Website](https://preeticancode.github.io/HIKE-WITH-ME/about.html)
+
+***
+***(By Preeti Singh)***
 
 # Table Of Contents
 
@@ -11,6 +14,8 @@
 - [Hike With Us](#milestone-1-project--hike-with-us)
 
 - [Introduction](#introduction)
+
+- [User Story](#user-story)
 
 - [Features](#features)
     - [Navigation Bar](#Navigation)
@@ -33,6 +38,7 @@
 - [Deployment](#Deployment)
 
 - [Credits](#Credits)
+   - [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
    - [Content](#Content)
    - [Media](#Media)
  
@@ -44,6 +50,14 @@
 ## Introduction
 
 This page is dedicated to community of hiking enthusiasts from all across Ireland. Our mission is to bring together people who share a passion for hiking, whether you're an experienced trekker or just starting out. Join us to explore Ireland's stunning trails, discover new places, and make lasting friendships.
+
+## User Story
+**Title: "Discover, Connect, and Share Hiking Experiences"**
+
+- I am Nature Enthusiast / Hiker
+- Discover new hiking trails, connect with other hikers, share my experiences, and access hiking resources
+- I can enhance my hiking adventures, gain valuable insights, and contribute to the hiking community
+
 
 ## Features 
 - __Navigation Bar__
@@ -108,7 +122,16 @@ This page is dedicated to community of hiking enthusiasts from all across Irelan
     <summary>Wireframe - SignUp page Mobile</summary>  
 
     ![homepage wireframe-mobile & desktop](readme-img/wire6.png)
-    </details>              
+    </details>
+  <summary>Wireframe - About Us page Desktop</summary>  
+
+    ![homepage wireframe-mobile & desktop](readme-img/wire3.png)
+    </details> 
+    <details>
+    <summary>Wireframe - About Us Mobile</summary>  
+
+    ![homepage wireframe-mobile & desktop](readme-img/wire6.png)
+    </details>                
 
 ## Testing 
 
@@ -143,11 +166,11 @@ Chrome development tools was used throughout the design process to check respons
 
 
 
-### Unfixed Bugs
+## Unfixed Bugs
 
 Need to update
 
-### Deployment
+## Deployment
 
 The site was deployed to GitHub pages. The steps taken to deploy are as follows:
 1. Log in to [Github](https://github.com/)
@@ -164,22 +187,45 @@ https://preeticancode.github.io/HIKE-WITH-ME/
 
 ## Credits 
 
+   ### Frameworks, Libraries & Programs Used
 
+   - Balsamiq - Used to create wireframes.
 
-### Content 
+   - Git - For version control.
 
-- The text for the Home page was taken google article.
-- Code structure taken from Love Running.
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+   - Github - To save and store the files for the website.
 
-### Media
+   - Google Fonts - To import the fonts used on the website.
 
-- The photos used on the home and sign up page are from our group hiking trip and some are mine.
-- The some images used for the gallery page were taken from this other open source site.
+   - Font Awesome - For the iconography on the website.
+
+   - Google Dev Tools - To troubleshoot and test features, solve issues with responsiveness and 
+    styling.
+
+   - Tiny PNG To compress images.
+
+   - Convertio To convert images to webp format.
+
+   - Favicon.io To create favicon.
+
+   - Am I Responsive? To show the website image on a range of devices.
+
+   - Responsive Image Linter - To optimise image sizing.
+
+   ### Content 
+  - The text for the Home page was taken google article.
+  - Form contents and footer code used on main page taken from Love Running Project.
+  - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+
+   ### Media
+
+  - The photos used on the home and sign up page are from our group hiking trip and some are mine.
+  - The some images used for the gallery page were taken from this other open source site.
 
 
 
 ## Acknowledgements
+
 
 I would like to take the opportunity to thank:
 - My mentor David Bowers for his feedback, advice, guidance and support.
