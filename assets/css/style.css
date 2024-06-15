@@ -110,6 +110,27 @@ main {
     background-color: #cfc5c5;
 }
 
+
+/*sets the rules for all hero images and links the keyframe rules to them*/
+.hero-animation {
+    height: 65%;
+    width: 100%;
+    background-size: cover;
+    animation-name: hero-image-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;    
+}
+
+/* creates the level of zoom for hero image */
+@keyframes hero-image-zoom {
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.1);
+    }
+}
+
 /* Hero section */
 #hero {
     height: 600px;
