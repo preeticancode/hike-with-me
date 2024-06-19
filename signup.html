@@ -41,8 +41,7 @@
     <!-- Main content -->
     <main>
         <section id="signup">
-            <form action="signup-feedback.html"></form>
-            <form id="signup-form" method="POST" action="signup-feedback.html">
+            <form id="signup-form" method="GET" action="signup-feedback.html">
                 <h2><i class="fa-solid fa-person-hiking"></i> Join the Community!</h2>
                 <label for="first-name"><b>First Name</b></label>
                 <input type="text" name="first_name" id="first-name" class="text-input" required>
@@ -54,6 +53,7 @@
                 <input type="email" name="email_address" id="email-address" class="text-input" required>
                 <br>
                 <div class="radio-buttons">
+                    <fieldset>
                     <div>
                         <label for="road"><b>Mounatin</b></label>
                         <input type="radio" name="running_preference" id="road" value="road" required checked>
@@ -67,6 +67,7 @@
                         <input type="radio" name="running_preference" id="both" value="both" required>
                     </div>
                 </div>
+                </fieldset>
                 <button type="submit" class="join-button">Let's Go!</button>
             </form>
         </section>
