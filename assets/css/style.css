@@ -385,6 +385,7 @@ main {
     font-size: 100%;
     background-color: #752323;
     color: #fafafa;
+    text-decoration: none;
 }
 
 /* Footer */
@@ -499,11 +500,6 @@ footer {
 
     .text-input:hover {
         border-color: #f16c6b;
-    }
-
-    .join-button:hover {
-        background-color: #fafafa;
-        color: #454b1b;
     }
 
 /* Large devices (laptops and desktops, 992px and up) */
