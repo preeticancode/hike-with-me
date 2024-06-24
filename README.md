@@ -3,17 +3,21 @@
 
 ## Welcome to Hike with Me! 
 
-## [Link to Live Website](https://preeticancode.github.io/HIKE-WITH-ME/index.html)
+## **Site Overview**
+This page is dedicated to community of hiking enthusiasts from all across Ireland. Our mission is to bring together people who share a passion for hiking, whether you're an experienced trekker or just starting out. Join us to explore Ireland's stunning trails, discover new places, and make lasting friendships.
 
 ***
 ***(By Preeti Singh)***
+
+## [Link to Live Website](https://preeticancode.github.io/HIKE-WITH-ME/index.html)
+
+
 
 # Table Of Contents
 
 
 - [Hike With Us](#milestone-1-project--hike-with-us)
 
-- [Introduction](#introduction)
 
 - [User Story](#user-story)
 
@@ -47,9 +51,6 @@
 
 ![alt-text](documents/responsive.png)
 
-## Introduction
-
-This page is dedicated to community of hiking enthusiasts from all across Ireland. Our mission is to bring together people who share a passion for hiking, whether you're an experienced trekker or just starting out. Join us to explore Ireland's stunning trails, discover new places, and make lasting friendships.
 
 ## User Story
 **Title: "Discover, Connect, and Share Hiking Experiences"**
