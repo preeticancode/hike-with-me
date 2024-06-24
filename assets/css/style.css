@@ -280,17 +280,6 @@ main {
     text-align: center;
 }
 
-.button-form-confirm {
-    text-align: center;
-    margin-top: 2em;
-    font-size: 1.2em;
-    width: fit-content;
-    padding: 1em;
-    border-radius: 10px;
-    background-color: var(--accent-color);
-    transition: all 0.3s ease-out;
-}
-
 /* Trail section */
 #times {
     background: url('../images/dublin-city.webp') no-repeat center/cover;
