@@ -350,6 +350,7 @@ main {
     color: #4c1a11;
     background-color: rgba(193, 205, 191, 0.6);
     padding: 50px;
+    margin-top: 20%;
 }
 #signup-form-button{
     display: flex;
@@ -412,6 +413,11 @@ footer {
     #photos {
         column-count: 2;
         column-gap: 0;
+    }
+    #signup-form {
+        max-width: 400px;
+        left: 10%;
+        top: 150px;
     }
 }
 
