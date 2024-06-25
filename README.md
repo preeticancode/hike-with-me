@@ -11,53 +11,105 @@ This page is dedicated to community of hiking enthusiasts from all across Irelan
 
 ## [Link to Live Website](https://preeticancode.github.io/hike-with-me/)
 
+![Am I responsive screenshot](docs/screenshots/am-i-responsive.jpg)
+
+## Table of contents:
+1. [**Site Overview**](#site-overview)
+1. [**Planning stage**](#planning-stage)
+    * [***Target Audiences***](#target-audiences)
+    * [***User Stories***](#user-stories)
+    * [***Site Aims***](#site-aims)
+    * [***Wireframes***](#wireframes)
+    * [***Color Scheme***](#color-scheme)
+1. [**Current Features Common to all pages**](#current-features-common-to-all-pages)
+    * [***Header Element:***](#header-element)
+        * [*Title*](#title)
+        * [*Logos*](#logos)
+        * [*Navigation Bar*](#navigation-bar)
+    * [**Hero Images:**](#hero-images)
+      * [***About Page***:](#about-page)
+          * [*Hero-Image*](#hero-image)
+          * [*Quote*](#quote)
+      * [***Teachings page***:](#teachings-page)
+          * [*Hero-Image*](#hero-image-1)
+          * [*Quote*](#quote-1)
+      * [***Community page:***](#community-page)
+          * [*Hero-Image*](#hero-image-2)
+          * [*Quote*](#quote-2)
+      * [***Contact and Form-Feedback pages:***](#contact-and-form-feedback-pages)
+          * [*Hero-Image*](#hero-image-3)
+          * [*Quote*](#quote-3)
+    * [**Anchor Tags Within all Pages Main Content**](#anchor-tags-within-all-pages-main-content)
+    * [**Footer**](#footer)
+    * [**Typography**](#typography)
+1. [**Individual Page Content features**](#individual-page-content-features)
+    * [**About Page Content**](#about-page-content)
+    * [**Teachings Page Content**](#teachings-page-content)
+    * [**Community Page Content**](#community-page-content)
+    * [**Contact Page Content**](#contact-page-content)
+    * [**Form Feedback Page Content**](#form-feedback-page-content)
+1. [**Future-Enhancements**](#future-enhancements)
+1. [**Testing Phase**](#testing-phase)
+1. [**Deployment**](#deployment)
+1. [**Credits**](#credits)
+    * [**Honorable mentions**](#honorable-mentions)
+    * [**General reference**](#general-reference)
+    * [**Content**](#content)
+    * [**Media**](#media)
+
+## **Planning stage**
+### **Target Audiences:**
+1. *Outdoor Enthusiasts*: People who love nature and outdoor activities.
+2. *Fitness Enthusiasts*: Individuals looking for physical exercise through hiking.
+3. *Adventure Seekers*: Those who enjoy exploring new trails and challenging terrains.
+4. *Families*: Parents and children looking for family-friendly hiking activities.
+5. *Environmentalists*: People interested in conservation and appreciating natural beauty.
+6. *Social Seekers*: Individuals looking to make friends and connect with like-minded people.
+7. *Beginners*: New hikers seeking guidance, tips, and beginner-friendly trails.
+8. *Experienced Hikers*: Seasoned hikers looking for advanced trails and sharing their experiences.
 
 
-# Table Of Contents
+### **User Stories:**
+* User who are Nature Enthusiast / Hiker.
+* Discover new hiking trails, connect with other hikers, share each-other experiences, and access hiking resources.
+* User can enhance my hiking adventures, gain valuable insights, and contribute to the hiking community.
 
+### **Site Aims:**
+1. *Foster Community Engagement*: Create a vibrant and interactive platform where hikers of all levels can connect, share experiences, and support each other.
 
-- [Hike With Us](#milestone-1-project--hike-with-us)
+2. *Provide Comprehensive Trail Information*: Offer detailed and up-to-date information on hiking trails, including maps, difficulty ratings, directions, and user reviews, to help members plan their hikes effectively.
 
+3. *Promote Safety and Preparedness*: Educate members on hiking safety, emergency procedures, and best practices to ensure safe and enjoyable hiking experiences.
 
-- [User Story](#user-story)
+4. *Encourage Outdoor Activity*: Inspire people to explore the outdoors and lead a healthy lifestyle by participating in hikes and outdoor events.
 
-- [Features](#features)
-    - [Navigation Bar](#Navigation)
-    - [The landing page image](#thelandingpageimage)
-    - [What We Offer](#What-we-offer)
-    - [Trail Information](#Trail-Information)
-    - [The Footer](#The-Footer)
-    - [Gallery](#gallery)
-    - [The Sign Up Page](#The-Sign-Up-Page)
-    - [Wireframe](#Wireframe)
-    - 
+5. *Support Skill Development*: Provide resources, guides, and tips to help hikers improve their skills and knowledge, catering to beginners and experienced hikers alike.
 
-- [Testing](#testing)
-    - [Validation](#Validation)
-    - [Responsiveness](#Responsiveness)
-    - [Lighthouse Testing](#Lighthouse-Testings)
-  
-- [Unfixed Bugs](#Unfixed-Bugs)
-  
-- [Deployment](#Deployment)
+6. *Facilitate Event Organization*: Streamline the process of organizing and participating in group hikes and community events through an easy-to-use event calendar and RSVP system.
 
-- [Credits](#Credits)
-   - [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
-   - [Content](#Content)
-   - [Media](#Media)
- 
-- [Acknowledgements](#Acknowledgements)
+7. *Enhance Environmental Awareness*: Promote responsible hiking practices and environmental stewardship, encouraging members to respect and preserve natural habitats.
 
+8. *Enable Photo and Experience Sharing*: Allow members to upload and share photos, videos, and stories from their hikes, fostering a sense of community and shared adventure.
 
-![alt-text](documents/responsive.png)
+9. *Offer Personalized Experiences*: Allow members to create profiles, track their hiking progress, and receive personalized recommendations based on their preferences and activity.
 
+10. *Provide Support and Feedback Channels*: Ensure members can easily contact community organizers for support, ask questions, and provide feedback to continuously improve the website and community experience.
 
-## User Story
-**Title: "Discover, Connect, and Share Hiking Experiences"**
+### **Wireframes:**
+To organize my thoughts and prevent scope creep, I created wireframes for this project. Below are links to each of the mobile and desktop versions of the four intended pages. 
 
-- I am Nature Enthusiast / Hiker
-- Discover new hiking trails, connect with other hikers, share my experiences, and access hiking resources
-- I can enhance my hiking adventures, gain valuable insights, and contribute to the hiking community
+* Mobile Wireframes:
+    * [Homepage (About)](docs/wireframes/index-mobile.png)
+    * [Teachings page](docs/wireframes/gallery-mobile.png)
+    * [Community page](docs/wireframes/signup-mobile.png)
+    * [Contact page](docs/wireframes/aboutus-mobile.png)
+
+* Desktop wireframes:
+    * [Homepage (About)](docs/wireframes/index-desktop.png)
+    * [Teachings page](docs/wireframes/gallery-desktop.png)
+    * [Community page](docs/wireframes/signup-desktop.png)
+    * [Contact page](docs/wireframes/aboutus-desktop.png)
+
 
 
 ## Features 
