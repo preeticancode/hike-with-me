@@ -314,7 +314,6 @@ main {
     margin: 20px;
     overflow: hidden;
     border-radius: 10px;
-    cursor: pointer;
     position: relative;
     transition: transform 0.3s ease-in-out;
     box-shadow: 0 4px 8px #0000001A;
