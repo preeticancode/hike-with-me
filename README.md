@@ -24,7 +24,6 @@ This page is dedicated to community of hiking enthusiasts from all across Irelan
 1. [**Current Features Common to all pages**](#current-features-common-to-all-pages)
     * [***Header Element:***](#header-element)
         * [*Title*](#title)
-        * [*Logos*](#logos)
         * [*Navigation Bar*](#navigation-bar)
     * [**Hero Images:**](#hero-images)
       * [***About Page***:](#about-page)
@@ -100,16 +99,39 @@ To organize my thoughts and prevent scope creep, I created wireframes for this p
 
 * Mobile Wireframes:
     * [Homepage (About)](docs/wireframes/index-mobile.png)
-    * [Teachings page](docs/wireframes/gallery-mobile.png)
-    * [Community page](docs/wireframes/signup-mobile.png)
-    * [Contact page](docs/wireframes/aboutus-mobile.png)
+    * [Gallery page](docs/wireframes/gallery-mobile.png)
+    * [Sign Up page](docs/wireframes/signup-mobile.png)
+    * [About Us page](docs/wireframes/aboutus-mobile.png)
 
 * Desktop wireframes:
     * [Homepage (About)](docs/wireframes/index-desktop.png)
-    * [Teachings page](docs/wireframes/gallery-desktop.png)
-    * [Community page](docs/wireframes/signup-desktop.png)
-    * [Contact page](docs/wireframes/aboutus-desktop.png)
+    * [Gallery page](docs/wireframes/gallery-desktop.png)
+    * [Sign Up page](docs/wireframes/signup-desktop.png)
+    * [About Us page](docs/wireframes/aboutus-desktop.png)
+  There was some deviation from the original wireframes to improve the User Experience (UX).
 
+### **Color Scheme:**
+When deciding the color scheme, I wanted to go with something that gave an elegant appearance. For this reason, I selected a range of blue and gold's and used the following color grid created on [https://contrast-grid.eightshapes.com/](https://contrast-grid.eightshapes.com/?version=1.1.0&background-colors=&foreground-colors=%230000001A%0D%0A%234c1a11%0D%0A%23C1CDBF%0D%0A%234a1111%0D%0A%23fafafa%0D%0A%23752323%0D%0A%233a3a3a%0D%0A%23f16c6b%0D%0A%0D%0A%0D%0A&es-color-form__tile-size=compact&es-color-form__show-contrast=aaa&es-color-form__show-contrast=aa&es-color-form__show-contrast=aa18&es-color-form__show-contrast=dnp) to check the contrast scores. Using this grid allowed me to ensure all text remained visible and the site was accessible to all.
+
+![Color contrast grid](docs/screenshots/color-grid.png)
+
+
+## **Current Features Common to all pages**
+###  **Header Element**
+The header element sticks to the top of the page as the user scrolls up and down. Originally I had designed the page with a "return to top" link at the bottom of the page. However, a Code Institute graduate pointed out that the sticky header would provide a more pleasant UX and adhere to popular conventions better. The header itself contains the following features: 
+
+#### *Title:*
+![Page title](docs/screenshots/title.png)
+
+* The title serves to state the name of the community.
+* It also serves as a navigation link to the home page as per the well-established convention expected by the user.
+
+#### *Navigation Bar:*
+* The navigation bar appears on all four pages (including the form feedback page). 
+* It contains links to the home, gallery,sign up, and about us page to allow easy navigation around the website. 
+* The below image shows the user's current page highlighted in blue with a white border. 
+![Navigation bar](docs/screenshots/nav-bar.png)
+***
 
 
 ## Features 
