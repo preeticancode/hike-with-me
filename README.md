@@ -9,7 +9,7 @@ This page is dedicated to community of hiking enthusiasts from all across Irelan
 ***
 ***(By Preeti Singh)***
 
-## [Link to Live Website](https://preeticancode.github.io/HIKE-WITH-ME/index.html)
+## [Link to Live Website](https://preeticancode.github.io/hike-with-me/)
 
 
 
