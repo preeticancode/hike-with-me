@@ -133,6 +133,120 @@ The header element sticks to the top of the page as the user scrolls up and down
 ![Navigation bar](docs/screenshots/nav-bar.png)
 ***
 
+## **Footer**
+* The footer includes direct links to all  social media accounts.
+
+* These icons were imported from font awesome at the bottom of the page. 
+![Page footer](docs/screenshots/footer.png)
+
+
+## **Typography**
+* Throughout the page, there are three fonts used:
+  * Lato sans-serif - For the title to give it a strong presence.
+  * Lato sans-serif - For all other headings including the navbar. 
+  * Oswald sans-serif - for all content text.
+
+* All fonts were sourced from Google fonts, as stated in the credits.
+
+## **Individual Page Content features**
+### **Home Page Content:**
+This page gives encorages guided hikes across Ireland's scenic routes such as the Wicklow Way, Kerry Way, and Dingle Way. It emphasizes the expertise of local guides, the cultural and historical significance of the trails, and the camaraderie among hikers. The site encourages a deep connection with nature through Ireland's tranquil landscapes.
+
+![Contact and Form-feedback pages hero image](docs/screenshots/home-page-content.png)
+
+### **Gallery Page Content:**
+The "Gallery" page on the "Hike with Me" website by Preetica showcases a collection of photos from various hiking adventures. The page is designed to visually engage visitors by displaying beautiful and scenic images of nature, trails, mountains, and other outdoor experiences. Each photo captures unique moments and landscapes from different hikes, reflecting the beauty and diversity of the natural world.
+
+Key features of the page include:
+
+Photo Grid Layout: The images are arranged in a grid format, allowing visitors to view multiple photos at once. This layout is visually appealing and makes it easy to browse through the collection.
+
+High-Quality Images: The photos are high-resolution, ensuring that details are clear and the beauty of the landscapes is fully appreciated.
+
+Captions and Descriptions: Each photo may include captions or brief descriptions, providing context such as the location of the hike or the significance of the moment captured.
+
+User Experience: The gallery is designed to be user-friendly, with intuitive navigation and a clean, minimalist aesthetic that keeps the focus on the images.
+
+Overall, the "Gallery" page serves as an inspiring visual showcase of hiking adventures, encouraging visitors to explore and appreciate the great outdoors.
+
+![Zoomed out image of the gallery page content section](docs/screenshots/gallery-page-content.png)
+
+### **Sign Up Page Content:**
+The "Sign Up" page on the "Hike with Me" website by Preetica is designed to allow visitors to register for the website or specific hiking events and activities. Here's a brief overview of its features:
+
+Registration Form: The page includes a registration form where users can enter their personal information. Typical fields might include:
+
+Name
+Email Address
+Password
+Confirm Password
+Additional fields like phone number, preferred hiking difficulty level, or interests might also be present.
+User-Friendly Design: The form is designed to be straightforward and easy to fill out, ensuring a smooth user experience. Labels and placeholders guide the user on what information is required.
+
+Security Features: The page likely includes security features such as password strength indicators and validation checks to ensure that users provide valid and secure information.
+
+Call to Action: Prominent "Sign Up" or "Register" buttons encourage users to complete the registration process.
+
+Navigation Links: Links to other parts of the website, such as the login page for existing users, the home page, or the privacy policy, are typically included.
+
+Visual Elements: The page maintains a consistent visual theme with the rest of the website, possibly incorporating images or graphics related to hiking to keep the aesthetic appealing and relevant.
+
+Overall, the "Sign Up" page is a crucial part of the "Hike with Me" website, providing a gateway for new users to join the community and participate in hiking activities.
+
+![Sign up page](docs/screenshots/signup-page-content.png)
+
+
+### **About Us Page Content**
+The "About" page on the "Hike with Me" website by Preetica provides visitors with information about the website's purpose, mission, and the people behind it. Here's a brief overview of its content and features:
+
+Introduction: The page typically begins with an introduction that explains the main purpose of the website. This might include an overview of what "Hike with Me" is about, such as promoting hiking as a recreational activity, encouraging outdoor exploration, and building a community of hiking enthusiasts.
+
+Mission Statement: A clear and concise mission statement outlines the goals and values of "Hike with Me." This might focus on themes like fostering a love for nature, promoting physical fitness, and encouraging sustainable hiking practices.
+
+Founder's Story: Information about Preetica, the founder of the website, is provided. This section might include a personal story about how Preetica developed a passion for hiking, the inspiration behind creating the website, and any relevant background information.
+
+Team Members: If applicable, the page might introduce other key team members or contributors who help run the website or organize hiking events.
+
+Values and Philosophy: This section elaborates on the core values and philosophy guiding "Hike with Me," such as environmental conservation, community building, inclusivity, and adventure.
+
+Activities and Services: An overview of the activities and services offered by the website, such as guided hikes, hiking tips, trail recommendations, and community events.
+
+Visual Elements: The page is likely enhanced with relevant images, such as photos of hiking trips, scenic landscapes, and candid shots of the founder or team members enjoying outdoor activities. These visuals help create a personal connection with the audience.
+
+Contact Information: Contact details or a link to a contact page might be provided, encouraging visitors to reach out with questions, feedback, or to get involved.
+
+Overall, the "About" page serves to build trust and rapport with visitors by sharing the story, mission, and values behind "Hike with Me," while also providing a glimpse into the community and activities associated with the website.
+
+![Sign up page content](docs/screenshots/aboutus-page-content.jpg)
+
+### **Form Feedback Page Content**
+* I created this page to mimic the effect of actually submitting a form. 
+* I centered the text alignment on this page only. I set the text-alignment property to "justify" on smaller screen widths and to "left" on larger screens for all other pages. I made this decision because of the lack of text on the form feedback page. Matching the alignment to the other pages looked out of place.
+* Since filling in the form suggests the user is interested in learning more, I have included a longer feature video about the tradition here. *Note: Originally, I had wanted to use this on the home page, but due to the length of the video, I deemed it too long for an introduction. There is no auto play on the videos, so the user can choose whether they want to engage with the video or not.*
+* Link included within the content to take the user back to the initial contact page, in case they wanted to look at the ways to contact a local meditation center, send an additional message, or sign up to the mailing list.
+
+![Form feedback content](docs/screenshots/form-feedback-content.jpg)
+
+## **Future-Enhancements**
+
+* The future intention of the site would be to serve as a website specifically for Malta, where there is no community until now. However, Due to the summer break, which the tradition undergoes every year, I could not reach the traditions director with my request for permission. I decided to build a tribute site to showcase to the head office and adapt the content to be more Malta specific later on. 
+
+* At first, the purpose would remain to educate and raise awareness meaning the current content would still be applicable; however, There would be additional content I could add as interest grew. Such things would be: -
+
+    * Times/dates/venues for Meetups in Malta to build a community
+    * Times/dates/venues for Book clubs to study and discuss the materials and methods to apply them to daily life.
+    * More information on the lineage of the tradition to include short biographies.
+
+* Eventually, when Malta was designated a teacher by the head office, these would then convert into: -
+
+    * Times/dates/venues/fees for Formal classes
+    * Times/dates/venues/fees for Public talks/events
+    * Include a bio for Malta's officially designated teacher at the end of the traditions lineage page or add a new page summarizing their experience.
+
+* Once I better understand Javascript, I would like to add a burger menu for mobile-sized device screens. I found articles on achieving this with CSS and HTML alone; however, I did not deem this necessary to create the minimum viable product, which is this project.
+
+* I would also make the contact form fully function with a post request and have a database to collate data for the mailing list.
+***
 
 ## Features 
 - __Navigation Bar__
