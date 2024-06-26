@@ -15,42 +15,28 @@ This page is dedicated to community of hiking enthusiasts from all across Irelan
 
 ## Table of contents:
 1. [**Site Overview**](#site-overview)
-1. [**Planning stage**](#planning-stage)
+2. [**Planning stage**](#planning-stage)
     * [***Target Audiences***](#target-audiences)
     * [***User Stories***](#user-stories)
     * [***Site Aims***](#site-aims)
     * [***Wireframes***](#wireframes)
     * [***Color Scheme***](#color-scheme)
-1. [**Current Features Common to all pages**](#current-features-common-to-all-pages)
+3. [**Current Features Common to all pages**](#current-features-common-to-all-pages)
     * [***Header Element:***](#header-element)
         * [*Title*](#title)
         * [*Navigation Bar*](#navigation-bar)
-    * [**Hero Images:**](#hero-images)
-      * [***About Page***:](#about-page)
-          * [*Hero-Image*](#hero-image)
-          * [*Quote*](#quote)
-      * [***Teachings page***:](#teachings-page)
-          * [*Hero-Image*](#hero-image-1)
-          * [*Quote*](#quote-1)
-      * [***Community page:***](#community-page)
-          * [*Hero-Image*](#hero-image-2)
-          * [*Quote*](#quote-2)
-      * [***Contact and Form-Feedback pages:***](#contact-and-form-feedback-pages)
-          * [*Hero-Image*](#hero-image-3)
-          * [*Quote*](#quote-3)
-    * [**Anchor Tags Within all Pages Main Content**](#anchor-tags-within-all-pages-main-content)
     * [**Footer**](#footer)
     * [**Typography**](#typography)
-1. [**Individual Page Content features**](#individual-page-content-features)
-    * [**About Page Content**](#about-page-content)
-    * [**Teachings Page Content**](#teachings-page-content)
-    * [**Community Page Content**](#community-page-content)
-    * [**Contact Page Content**](#contact-page-content)
-    * [**Form Feedback Page Content**](#form-feedback-page-content)
-1. [**Future-Enhancements**](#future-enhancements)
-1. [**Testing Phase**](#testing-phase)
-1. [**Deployment**](#deployment)
-1. [**Credits**](#credits)
+4. [**Individual Page Content features**](#individual-page-content-features)
+    * [**Home Page Content**](#about-page-content)
+    * [**Gallery Page Content**](#teachings-page-content)
+    * [**Sign Up Page Content**](#community-page-content)
+    * [**About Us Page Content**](#contact-page-content)
+    * [**Sign Up Feedback Page Content**](#form-feedback-page-content)
+5. [**Future-Enhancements**](#future-enhancements)
+6. [**Testing Phase**](#testing-phase)
+7. [**Deployment**](#deployment)
+8. [**Credits**](#credits)
     * [**Honorable mentions**](#honorable-mentions)
     * [**General reference**](#general-reference)
     * [**Content**](#content)
@@ -152,7 +138,7 @@ The header element sticks to the top of the page as the user scrolls up and down
 ### **Home Page Content:**
 This page gives encorages guided hikes across Ireland's scenic routes such as the Wicklow Way, Kerry Way, and Dingle Way. It emphasizes the expertise of local guides, the cultural and historical significance of the trails, and the camaraderie among hikers. The site encourages a deep connection with nature through Ireland's tranquil landscapes.
 
-![Contact and Form-feedback pages hero image](docs/screenshots/home-page-content.png)
+![Home page](docs/screenshots/home-page-content.png)
 
 ### **Gallery Page Content:**
 The "Gallery" page on the "Hike with Me" website by Preetica showcases a collection of photos from various hiking adventures. The page is designed to visually engage visitors by displaying beautiful and scenic images of nature, trails, mountains, and other outdoor experiences. Each photo captures unique moments and landscapes from different hikes, reflecting the beauty and diversity of the natural world.
@@ -216,16 +202,32 @@ Visual Elements: The page is likely enhanced with relevant images, such as photo
 Contact Information: Contact details or a link to a contact page might be provided, encouraging visitors to reach out with questions, feedback, or to get involved.
 
 Overall, the "About" page serves to build trust and rapport with visitors by sharing the story, mission, and values behind "Hike with Me," while also providing a glimpse into the community and activities associated with the website.
+![About Us page content](docs/screenshots/aboutus-page-content.png)
 
-![Sign up page content](docs/screenshots/aboutus-page-content.jpg)
+### **Sign Up Feedback Page Content**
+The "Sign Up Feedback" page on the "Hike with Me" website provides a confirmation and summary of the information submitted during the sign-up process. Based on the URL provided, it appears that this page is dynamically generated to display personalized feedback to the user. Here’s a brief overview of its features and content:
 
-### **Form Feedback Page Content**
-* I created this page to mimic the effect of actually submitting a form. 
-* I centered the text alignment on this page only. I set the text-alignment property to "justify" on smaller screen widths and to "left" on larger screens for all other pages. I made this decision because of the lack of text on the form feedback page. Matching the alignment to the other pages looked out of place.
-* Since filling in the form suggests the user is interested in learning more, I have included a longer feature video about the tradition here. *Note: Originally, I had wanted to use this on the home page, but due to the length of the video, I deemed it too long for an introduction. There is no auto play on the videos, so the user can choose whether they want to engage with the video or not.*
-* Link included within the content to take the user back to the initial contact page, in case they wanted to look at the ways to contact a local meditation center, send an additional message, or sign up to the mailing list.
+Personalized Confirmation Message: The page likely starts with a greeting that includes the user's first name, confirming that their sign-up was successful. For example, "Thank you for signing up, Grg!"
 
-![Form feedback content](docs/screenshots/form-feedback-content.jpg)
+Summary of Submitted Information: The page displays a summary of the information the user entered during the sign-up process. This includes:
+
+First Name: 
+Last Name: 
+Email Address: 
+Running Preference: 
+Next Steps: Instructions or suggestions on what the user can do next. This might include links to:
+
+Explore upcoming hiking events or trails.
+Join the community forum or social media groups.
+Check their email for a confirmation message or further details.
+Call to Action: A button or link encouraging the user to proceed to other parts of the website, such as browsing the gallery, reading the blog, or updating their profile.
+
+Visual and Design Elements: Consistent with the website’s overall aesthetic, the page is likely designed with a clean and user-friendly interface, possibly featuring nature-themed visuals or graphics.
+
+Contact Information: In case of any issues or questions, the page might include contact details or a link to the support page.
+
+Overall, the "Sign Up Feedback" page is designed to confirm the successful registration of a new user, provide a summary of their submitted information, and guide them towards further engagement with the "Hike with Me" community and resources.
+![Sign Up feedback content](docs/screenshots/signup-feedback-content.png)
 
 ## **Future-Enhancements**
 
