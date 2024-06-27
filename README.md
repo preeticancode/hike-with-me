@@ -286,21 +286,7 @@ I have included details of testing both during development and post development 
 
 - __Lighthouse Testing__
 
-    Lighthouse testing was performed by Google's open source tool, 
-    [Google Chrome DevTools](https://developers.google.com/web/tools/lighthouse). 
-
-   - index.html 
-
-    ![Lighthouse](readme-img/imglihthous.png)
-
-   - gallery.html
-
-   ![Lighthouse](readme-img/imlgallerylight.png)
-
-   - signup.html
-
-   ![Lighthouse](readme-img/imgsignuplight.png)
-
+    
 
 
 ## Unfixed Bugs

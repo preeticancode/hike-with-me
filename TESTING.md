@@ -93,61 +93,50 @@ Below is a list of bugs I found during the development process by testing myself
 * I did all lighthouse tests in incognito mode to avoid interference from browser extensions. 
 * I ran the tests for both mobile and desktop. 
 * I asked people to run lighthouse tests from their own devices. 
-#### ***Desktop Version:***
-I have only included one screenshot for desktop as all pages were the same score, only changing by one or two points in performance if I ran it multiple times. 
-
-![Desktop Lighthouse Score](docs/screenshots/lighthouse-desktop.jpg) 
-
-**There were several actions required to get to this score:**
-
-1. The initial SEO score was 90 due to having no Meta description tag in the page head. Once I added this, the score became 100.
-
-1. The best practice score was first 93 and impacted by three factors:
-    * Aspect ratio of the images on the teachings page. I fixed this by resizing the images proportionately with the calculator found on https://andrew.hedges.name/experiments/aspect_ratio/.
-
-    * There were some anchor tags on the community page and the form feedback page where the contained text was "here". I changed these anchor texts to a more descriptive text indicating where the links would lead the user.
-
-    * The graphic used as an anchor to download the book Modern Buddhism on index.html was the correct size with no need to specify width and height. However, the best practice scored suggested it should have a height and width specified. I used an extension called pesticide to get the dimension of the image and added these to the CSS file under an ID explicitly created for this element (#modbudd-ebook). Once I added the dimensions best practice score became 100.
-
-1. The performance was 93 on the form feedback page but fluctuating around 93 each time I ran the test. I used https://tinypng.com/ to compress the hero image on this page, which took the score to a minimum of 95 or higher each time I ran the lighthouse test.
-
 #### ***Mobile Version:***
-
-* Due to the more significant variance in the performance score, I have included a screenshot for each mobile page. That being said when I asked one of my testers to check the mobile light house scores from his device his performance scores were all the high nineties.
-
 1. ***index.html:***
+    ![Mobile Lighthouse Score for index.html](docs/screenshots/lighthouse-mobile-index.png) 
 
-    ![Mobile Lighthouse Score for index.html](docs/screenshots/lighthouse-mobile-indx.jpg) 
+2. ***gallery.html:***
 
-    * Originally, the performance score on the page was around 83. By using a slightly smaller version of the same hero image, I resolved the issue and maintained the responsiveness up to 4000 px in width.
+    ![Mobile Lighthouse Score for gallery.html](docs/screenshots/lighthouse-mobile-gallery.png)
+    I found the performance score on this page lower due to the multiple pictures.  I used https://tinypng.com/ to compress the images on this page
 
-2. ***teaching:***
+3. ***signup.html:***
 
-    ![Mobile Lighthouse Score for teachings.html](docs/screenshots/lighthouse-mobile-teach.JPG)
+    ![Mobile Lighthouse Score for signup.html](docs/screenshots/lighthouse-mobile-signup.png) 
 
-3. ***community.html:***
+4. ***aboutus.html:***
 
-    ![Mobile Lighthouse Score for community.html](docs/screenshots/lighthouse-mobile-comm.JPG) 
+    ![Mobile Lighthouse Score for aboutus.html](docs/screenshots/lighthouse-mobile-aboutus.png)
 
-4. ***Contact.html:***
+5. ***signup-feedback.html:***
 
-    ![Mobile Lighthouse Score for teachings.html](docs/screenshots/lighthouse-mobile-contact.jpg)
+    ![Mobile Lighthouse Score for aboutus.html](docs/screenshots/lighthouse-mobile-signup-feedback.png)
 
-    * Best practice score has initially been 98 due to the spacing of the mailing list radio buttons. I added a padding bottom to the top div encasing the first input and label, which solved the issue.
-    * The performance score is lower on this mobile page due to the hero image. I already compressed the image twice, which had little impact on the score, and unfortunately, there was no more petite version of the image available. To resolve this in the future, I intend to use GIMP to resize an image. However, it was not a viable solution for this project due to the time already spent on the project, and given I would need to learn GIMP from scratch. 
 
-5.  ***form-feedback.html***
+#### ***Desktop Version:***
+1. ***index.html:***
+    ![Desktop Lighthouse Score for index.html](docs/screenshots/lighthouse-desktop-index.png) 
 
-    ![Mobile Lighthouse Score for form-feedback.html](docs/screenshots/lighthouse-mobile-feedback.jpg) 
-    * I found the performance score on this page lower due to the embedded video. I discovered this by looking at the original trace in the browser dev tools and saw the pages hero image and content loaded quickly. To test this theory, I removed the link from the iframe, and sure enough, the score increased a few points.
+2. ***gallery.html:***
 
-#### ***Lighthouse score Feedback From Third Party Testers***
-On the whole all scores reported back from third party testers using the lighthouse tool concurred with my own. One interesting thing that was reported back to me was the following when tested outside of Incognito mode: -
-  * The best practice score on the pages with a video embedded dropped to 93 due to a console error. 
-    * I was able to replicate this to see the error specified that the set:cookie property on the embedded video was being set automatically by the browser to "lax" due to not being specified in my code. 
-    * I reduced this error by using "no-cookie" in the youtube URL. However, I was unable to get rid of it outside of incognito mode completely. This error did not show at all in incognito mode.
-    * All documentation found on the set:cookie attribute pointed towards Javascript/API, which was outside of my current knowledge base and the scope requirements for this project. 
-    * Since, in reality, the browser was only alerting me that by default, the attribute was now "lax" and there was no user impact, I decided that this was not a bug but a browser feature. This is something I would be looking to fix in the future by replacing the embed url with an API call.
+    ![Desktop Lighthouse Score for gallery.html](docs/screenshots/lighthouse-desktop-gallery.png)
+    I found the performance score on this page lower due to the multiple pictures.  I used https://tinypng.com/ to compress the images on this page
+
+3. ***signup.html:***
+
+    ![Desktop Lighthouse Score for signup.html](docs/screenshots/lighthouse-desktop-signup.png) 
+
+4. ***aboutus.html:***
+
+    ![Desktop Lighthouse Score for aboutus.html](docs/screenshots/lighthouse-desktop-aboutus.png)
+
+5. ***signup-feedback.html:***
+
+    ![Desktop Lighthouse Score for aboutus.html](docs/screenshots/lighthouse-desktop-signup-feedback.png)
+
+
   
 ### **Accessability**
 In addition to the accessability score on light house I also used [WAVE - Web accessability evaluation tool](https://wave.webaim.org/) to check my pages for accessability and no errors were returned.
