@@ -94,7 +94,7 @@ To organize my thoughts and prevent scope creep, I created wireframes for this p
     * [Gallery page](docs/wireframes/gallery-desktop.png)
     * [Sign Up page](docs/wireframes/signup-desktop.png)
     * [About Us page](docs/wireframes/aboutus-desktop.png)
-    
+
   There was some deviation from the original wireframes to improve the User Experience (UX).
 
 ### **Color Scheme:**
@@ -303,6 +303,8 @@ https://preeticancode.github.io/hike-with-me/
 Balsamiq - Used to create wireframes.
 
 Git - For version control.
+
+Gitpod - To work on website as workspace.
 
 Github - To save and store the files for the website.
 
