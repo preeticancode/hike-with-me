@@ -340,7 +340,7 @@ The golden gradient colour scheme - [brandgradients.com](http://www.brandgradien
 ### **Media**
 The photos used on the home and sign up page are from our group hiking trip and some are mine.
 
-The some images used for the gallery page were taken from this other open source site.
+The some images used for the gallery page were taken from open source site (pixabay).
 
 Screenshot under README.md section titled "site overview" was created view [Am I responsive](http://ami.responsivedesign.is)
 
