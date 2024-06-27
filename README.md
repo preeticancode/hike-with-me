@@ -231,52 +231,52 @@ Overall, the "Sign Up Feedback" page is designed to confirm the successful regis
 
 ## **Future-Enhancements**
 
-Enhancing the "Hike with Me" website's in future can improve user engagement, provide better information, and create a more interactive experience. Here are some suggestions for future enhancements:
+Enhancing the "Hike with Me" website's in future can improve user engagement, provide better information, and create a more interactive experience. Here are some features I think can be good  for future enhancements:
 
 1. Interactive Map
-Feature: Include an interactive map that highlights popular hiking trails.
+Feature: Interactive map that highlights popular hiking trails.
 Benefit: Users can visualize and explore different hiking locations.
 2. User Testimonials
-Feature: Add a section for user testimonials.
+Feature: Section for user testimonials.
 Benefit: Builds trust and encourages new users to join by showcasing positive experiences.
 3. Event Calendar
-Feature: Integrate a calendar displaying upcoming hiking events and activities.
+Feature: Integrating a calendar displaying upcoming hiking events and activities.
 Benefit: Keeps users informed and helps them plan their participation.
 4. Search Functionality
-Feature: Implement a search bar to help users quickly find information on trails, tips, or blog posts.
+Feature: Implementing a search bar to help users quickly find information on trails, tips, or blog posts.
 Benefit: Enhances user experience by making navigation easier.
 5. Featured Hikes Section
-Feature: Highlight featured hikes of the month with detailed descriptions and images.
+Feature: Highlighting featured hikes of the month with detailed descriptions and images.
 Benefit: Promotes specific trails and keeps content fresh and engaging.
 6. Newsletter Signup
-Feature: Add a newsletter signup form.
+Feature: Adding a newsletter signup form.
 Benefit: Allows users to stay updated with the latest news, tips, and events directly in their inbox.
 7. Community Forum
-Feature: Create a community forum where users can share experiences, tips, and ask questions.
+Feature: Creating a community forum where users can share experiences, tips, and ask questions.
 Benefit: Fosters a sense of community and encourages user interaction.
 8. Enhanced Visuals and Videos
-Feature: Incorporate high-quality visuals and video content, such as drone footage of hikes.
+Feature: Incorporating high-quality visuals and video content, such as drone footage of hikes.
 Benefit: Creates a more immersive experience and showcases the beauty of hiking locations.
 9. Mobile Optimization
-Feature: Ensure the website is fully optimized for mobile devices.
+Feature: Ensuring the website is fully optimized for mobile devices.
 Benefit: Improves accessibility and user experience on smartphones and tablets.
 10. Blog Section
-Feature: Add a blog section with posts on hiking tips, gear reviews, and personal stories.
+Feature: Adding a blog section with posts on hiking tips, gear reviews, and personal stories.
 Benefit: Provides valuable content that can attract and retain users.
 11. User Profiles and Badges
-Feature: Allow users to create profiles and earn badges for completing hikes or participating in events.
+Feature: Allowing users to create profiles and earn badges for completing hikes or participating in events.
 Benefit: Adds a gamification element, encouraging user engagement and activity.
 12. Live Chat Support
-Feature: Implement a live chat support feature for immediate assistance.
+Feature: Implementing a live chat support feature for immediate assistance.
 Benefit: Enhances user support and improves overall user satisfaction.
 13. Accessibility Features
-Feature: Ensure the site includes accessibility features like screen reader compatibility and adjustable text sizes.
+Feature: Ensureing the site includes accessibility features like screen reader compatibility and adjustable text sizes.
 Benefit: Makes the website usable for a broader audience, including those with disabilities.
 14. Sustainability Tips
-Feature: Include a section dedicated to sustainable hiking practices.
+Feature: Including a section dedicated to sustainable hiking practices.
 Benefit: Educates users on how to minimize their environmental impact while enjoying nature.
 15. Social Media Integration
-Feature: Integrate social media feeds and sharing buttons.
+Feature: Integrating social media feeds and sharing buttons.
 Benefit: Encourages social sharing and increases the website’s reach.
 By implementing these enhancements, the "Hike with Me" homepage can become a more engaging, informative, and user-friendly platform for hiking enthusiasts.
 
@@ -284,20 +284,10 @@ By implementing these enhancements, the "Hike with Me" homepage can become a mor
 I have included details of testing both during development and post development in a separate document called [TESTING.md](TESTING.md).
 ***
 
-- __Lighthouse Testing__
-
-    
-
-
-## Unfixed Bugs
-
-Need to update
-
-## Deployment
-
+## **Deployment**
 The site was deployed to GitHub pages. The steps taken to deploy are as follows:
 1. Log in to [Github](https://github.com/)
-2. Navigate to [preeticancode/HIKE-WITH-ME](https://github.com/preeticancode/HIKE-WITH.gitME) in  
+2. Navigate to [preeticancode/hike-with-me](https://github.com/preeticancode/HIKE-WITH.gitME) in  
    the list of repositories
 3. In the GitHub repository, navigate to the [Settings] tab
 4. In Settings scroll down to [GitHub pages] which opens in a new page.
@@ -305,51 +295,59 @@ The site was deployed to GitHub pages. The steps taken to deploy are as follows:
 6. Once the master branch has been selected, the page is automatically refreshed and a display indicates the successful deployment and the link to the address.
 
 The link to the live website is here:
-https://preeticancode.github.io/HIKE-WITH-ME/
+https://preeticancode.github.io/hike-with-me/
 
 
-## Credits 
 
-   ### Frameworks, Libraries & Programs Used
+## **Credits**
 
-   - Balsamiq - Used to create wireframes.
+### **Frameworks, Libraries & Programs Used**
+Balsamiq - Used to create wireframes.
 
-   - Git - For version control.
+Git - For version control.
 
-   - Github - To save and store the files for the website.
+Github - To save and store the files for the website.
 
-   - Google Fonts - To import the fonts used on the website.
+Google Fonts - To import the fonts used on the website.
 
-   - Font Awesome - For the iconography on the website.
+Font Awesome - For the iconography on the website.
 
-   - Google Dev Tools - To troubleshoot and test features, solve issues with responsiveness and 
+Google Dev Tools - To troubleshoot and test features, solve issues with responsiveness and 
     styling.
 
-   - Tiny PNG To compress images.
+Tiny PNG To compress images.
 
-   - Convertio To convert images to webp format.
+Convertio To convert images to webp format.
 
-   - Favicon.io To create favicon.
+Redketchup to resize image.
 
-   - Am I Responsive? To show the website image on a range of devices.
+Favicon.io To create favicon.
 
-   - Responsive Image Linter - To optimise image sizing.
+Am I Responsive? To show the website image on a range of devices.
 
-   ### Content 
-  - The text for the Home page was taken google article.
-  - Form contents and footer code used on main page taken from Love Running Project.
-  - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+### **Content**
+All content was written by myself and fewtext for the Home page was taken google article.
 
-   ### Media
+Form contents and footer code used on main page taken from Love Running Project.
 
-  - The photos used on the home and sign up page are from our group hiking trip and some are mine.
-  - The some images used for the gallery page were taken from this other open source site.
+The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+
+Accessibility checker - [WAVE - Web accessibility evaluation tool](https://wave.webaim.org/)
+
+The golden gradient colour scheme - [brandgradients.com](http://www.brandgradients.com/gold-gradient).
+  
+
+### **Media**
+The photos used on the home and sign up page are from our group hiking trip and some are mine.
+
+The some images used for the gallery page were taken from this other open source site.
+
+Screenshot under README.md section titled "site overview" was created view [Am I responsive](http://ami.responsivedesign.is)
+
+Color grid contract tool - [Eightshapes](https://contrast-grid.eightshapes.com/) 
 
 
-
-## Acknowledgements
-
-
+### **Honorable mentions**
 I would like to take the opportunity to thank:
 - My mentor David Bowers for his feedback, advice, guidance and support.
 - My husband Rajesh for his support, advice, help with testing, and for giving me some kids free 
