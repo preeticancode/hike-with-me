@@ -231,112 +231,58 @@ Overall, the "Sign Up Feedback" page is designed to confirm the successful regis
 
 ## **Future-Enhancements**
 
-* The future intention of the site would be to serve as a website specifically for Malta, where there is no community until now. However, Due to the summer break, which the tradition undergoes every year, I could not reach the traditions director with my request for permission. I decided to build a tribute site to showcase to the head office and adapt the content to be more Malta specific later on. 
+Enhancing the "Hike with Me" website's in future can improve user engagement, provide better information, and create a more interactive experience. Here are some suggestions for future enhancements:
 
-* At first, the purpose would remain to educate and raise awareness meaning the current content would still be applicable; however, There would be additional content I could add as interest grew. Such things would be: -
+1. Interactive Map
+Feature: Include an interactive map that highlights popular hiking trails.
+Benefit: Users can visualize and explore different hiking locations.
+2. User Testimonials
+Feature: Add a section for user testimonials.
+Benefit: Builds trust and encourages new users to join by showcasing positive experiences.
+3. Event Calendar
+Feature: Integrate a calendar displaying upcoming hiking events and activities.
+Benefit: Keeps users informed and helps them plan their participation.
+4. Search Functionality
+Feature: Implement a search bar to help users quickly find information on trails, tips, or blog posts.
+Benefit: Enhances user experience by making navigation easier.
+5. Featured Hikes Section
+Feature: Highlight featured hikes of the month with detailed descriptions and images.
+Benefit: Promotes specific trails and keeps content fresh and engaging.
+6. Newsletter Signup
+Feature: Add a newsletter signup form.
+Benefit: Allows users to stay updated with the latest news, tips, and events directly in their inbox.
+7. Community Forum
+Feature: Create a community forum where users can share experiences, tips, and ask questions.
+Benefit: Fosters a sense of community and encourages user interaction.
+8. Enhanced Visuals and Videos
+Feature: Incorporate high-quality visuals and video content, such as drone footage of hikes.
+Benefit: Creates a more immersive experience and showcases the beauty of hiking locations.
+9. Mobile Optimization
+Feature: Ensure the website is fully optimized for mobile devices.
+Benefit: Improves accessibility and user experience on smartphones and tablets.
+10. Blog Section
+Feature: Add a blog section with posts on hiking tips, gear reviews, and personal stories.
+Benefit: Provides valuable content that can attract and retain users.
+11. User Profiles and Badges
+Feature: Allow users to create profiles and earn badges for completing hikes or participating in events.
+Benefit: Adds a gamification element, encouraging user engagement and activity.
+12. Live Chat Support
+Feature: Implement a live chat support feature for immediate assistance.
+Benefit: Enhances user support and improves overall user satisfaction.
+13. Accessibility Features
+Feature: Ensure the site includes accessibility features like screen reader compatibility and adjustable text sizes.
+Benefit: Makes the website usable for a broader audience, including those with disabilities.
+14. Sustainability Tips
+Feature: Include a section dedicated to sustainable hiking practices.
+Benefit: Educates users on how to minimize their environmental impact while enjoying nature.
+15. Social Media Integration
+Feature: Integrate social media feeds and sharing buttons.
+Benefit: Encourages social sharing and increases the website’s reach.
+By implementing these enhancements, the "Hike with Me" homepage can become a more engaging, informative, and user-friendly platform for hiking enthusiasts.
 
-    * Times/dates/venues for Meetups in Malta to build a community
-    * Times/dates/venues for Book clubs to study and discuss the materials and methods to apply them to daily life.
-    * More information on the lineage of the tradition to include short biographies.
-
-* Eventually, when Malta was designated a teacher by the head office, these would then convert into: -
-
-    * Times/dates/venues/fees for Formal classes
-    * Times/dates/venues/fees for Public talks/events
-    * Include a bio for Malta's officially designated teacher at the end of the traditions lineage page or add a new page summarizing their experience.
-
-* Once I better understand Javascript, I would like to add a burger menu for mobile-sized device screens. I found articles on achieving this with CSS and HTML alone; however, I did not deem this necessary to create the minimum viable product, which is this project.
-
-* I would also make the contact form fully function with a post request and have a database to collate data for the mailing list.
+## **Testing Phase**
+I have included details of testing both during development and post development in a separate document called [TESTING.md](TESTING.md).
 ***
-
-## Features 
-- __Navigation Bar__
-
-  - Featured on all four pages, the full responsive navigation bar includes links to the  Home page, Gallery,Sign Up  and About US page and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
-
-- __The landing page image__
-
-    - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-    - This section introduces the user to HIKE WITH ME with an eye catching animation to grab their attention
-
-- __What We Offer__
-
-   We aim to:
-   - Encourage the exploration of the beautiful Irish outdoors.
-   - Promote physical and mental well-being through hiking.
-   - Provide a supportive and fun environment for all outdoor enthusiasts.
-
-
-- __Trail Information__
-
-  - This section will allow the user to learn about some of our favourite hiking trails. 
-  - These are top-rated hiking trails recommended by our community members.
-
-- __The Footer__ 
-
-  - The footer section includes links to the relevant social media sites for HIKE WITH ME. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media.
-
-- __Gallery__
-
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
-
-- __The Sign Up Page__
-
-  - This page will allow the user to get signed up to Love Running to start their hikingjourney with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
-
-- __Wireframe__
-    <details open>
-    <summary>Wireframe - Homepage Desktop & Mobile</summary>  
-
-    ![homepage wireframe-mobile & desktop](readme-img/wire1.png)
-    </details> 
-     =<details >
-    <summary>Wireframe - Gallery page Desktop</summary>  
-
-    ![homepage wireframe-mobile & desktop](readme-img/wire2.png)
-    </details> 
-    <details>
-    <summary>Wireframe - Gallery page Mobile</summary>  
-
-    ![homepage wireframe-mobile & desktop](readme-img/wire4.png)
-    </details>    
-    <details>
-    <summary>Wireframe - SignUp page Desktop</summary>  
-
-    ![homepage wireframe-mobile & desktop](readme-img/wire3.png)
-    </details> 
-    <details>
-    <summary>Wireframe - SignUp page Mobile</summary>  
-
-    ![homepage wireframe-mobile & desktop](readme-img/wire6.png)
-    </details>
-  <summary>Wireframe - About Us page Desktop</summary>  
-
-    ![homepage wireframe-mobile & desktop](readme-img/wire3.png)
-    </details> 
-    <details>
-    <summary>Wireframe - About Us Mobile</summary>  
-
-    ![homepage wireframe-mobile & desktop](readme-img/wire6.png)
-    </details>              
-
-## Testing 
-
-- __Validation__
-
-  * [HTML Validator](https://validator.w3.org/) was run at several points during the project and small syntax errors identified were fixed. At the final stage no errors or warnings were found
-  * [CSS Validator](https://validator.w3.org/) was run several times during the project and picked up small syntax errors which were corrected. At the time of submission the css code successfully passed the validator with no errors.
-
-- __Responsiveness__
-
-   The website was tested on Chrome, Mozilla, Edge and Safari browsers with no problems found.
-
-   The website was tested on numerous sized screens including Iphones 12 and 13,Samsung flip 5 , 15" laptop, 24" screen and Ipad and was found to respond as expected to all sizes.
-Chrome development tools was used throughout the design process to check responsiveness and breakpoints. Adjustments were made accordingly.
 
 - __Lighthouse Testing__
 
