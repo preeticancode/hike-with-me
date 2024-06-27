@@ -37,7 +37,7 @@ This page is dedicated to community of hiking enthusiasts from all across Irelan
 6. [**Testing Phase**](#testing-phase)
 7. [**Deployment**](#deployment)
 8. [**Credits**](#credits)
-    * [**Frameworks, Libraries & Programs Used**](#Frameworks-Libraries-&-Programs Used)
+    * [**Frameworks, Libraries & Programs Used**](#Frameworks-Libraries-&-Programs-Used)
     * [**Content**](#general-reference)
     * [**Media**](#content)
     * [**Honorable mentions**](#media)
@@ -141,7 +141,7 @@ This page gives encorages guided hikes across Ireland's scenic routes such as th
 ![Home page](docs/screenshots/home-page-content.png)
 
 ### **Gallery Page Content:**
-The "Gallery" page on the "Hike with Me" website by Preetica showcases a collection of photos from various hiking adventures. The page is designed to visually engage visitors by displaying beautiful and scenic images of nature, trails, mountains, and other outdoor experiences. Each photo captures unique moments and landscapes from different hikes, reflecting the beauty and diversity of the natural world.
+The "Gallery" page on the "Hike with Me" website showcases a collection of photos from various hiking adventures. The page is designed to visually engage visitors by displaying beautiful and scenic images of nature, trails, mountains, and other outdoor experiences. Each photo captures unique moments and landscapes from different hikes, reflecting the beauty and diversity of the natural world.
 
 Key features of the page include:
 
@@ -158,7 +158,7 @@ Overall, the "Gallery" page serves as an inspiring visual showcase of hiking adv
 ![Zoomed out image of the gallery page content section](docs/screenshots/gallery-page-content.png)
 
 ### **Sign Up Page Content:**
-The "Sign Up" page on the "Hike with Me" website by Preetica is designed to allow visitors to register for the website or specific hiking events and activities. Here's a brief overview of its features:
+The "Sign Up" page on the "Hike with Me" website is designed to allow visitors to register for the website or specific hiking events and activities. Here's a brief overview of its features:
 
 Registration Form: The page includes a registration form where users can enter their personal information. Typical fields might include:
 
@@ -207,7 +207,7 @@ Overall, the "About" page serves to build trust and rapport with visitors by sha
 ### **Sign Up Feedback Page Content**
 The "Sign Up Feedback" page on the "Hike with Me" website provides a confirmation and summary of the information submitted during the sign-up process. Based on the URL provided, it appears that this page is dynamically generated to display personalized feedback to the user. Here’s a brief overview of its features and content:
 
-Personalized Confirmation Message: The page likely starts with a greeting that includes the user's first name, confirming that their sign-up was successful. For example, "Thank you for signing up, Grg!"
+Personalized Confirmation Message: The page likely starts with a greeting that includes the user's first name, confirming that their sign-up was successful. For example, "Thank you for signing up, ______!"
 
 Summary of Submitted Information: The page displays a summary of the information the user entered during the sign-up process. This includes:
 
