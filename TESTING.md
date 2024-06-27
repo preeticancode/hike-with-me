@@ -95,24 +95,24 @@ Below is a list of bugs I found during the development process by testing myself
 * I asked people to run lighthouse tests from their own devices. 
 #### ***Mobile Version:***
 1. ***index.html:***
-    ![Mobile Lighthouse Score for index.html](docs/screenshots/lighthouse-mobile-index.png) 
+    ![Mobile Lighthouse Score for index](docs/lighthouse/lighthouse-mobile-index.png) 
 
 2. ***gallery.html:***
 
-    ![Mobile Lighthouse Score for gallery.html](docs/screenshots/lighthouse-mobile-gallery.png)
+    ![Mobile Lighthouse Score for gallery.html](docs/lighthouse/lighthouse-mobile-gallery.png)
     I found the performance score on this page lower due to the multiple pictures.  I used https://tinypng.com/ to compress the images on this page
 
 3. ***signup.html:***
 
-    ![Mobile Lighthouse Score for signup.html](docs/screenshots/lighthouse-mobile-signup.png) 
+    ![Mobile Lighthouse Score for signup.html](docs/lighthouse/lighthouse-mobile-signup.png) 
 
 4. ***aboutus.html:***
 
-    ![Mobile Lighthouse Score for aboutus.html](docs/screenshots/lighthouse-mobile-aboutus.png)
+    ![Mobile Lighthouse Score for aboutus.html](docs/lighthouse/lighthouse-mobile-aboutus.png)
 
 5. ***signup-feedback.html:***
 
-    ![Mobile Lighthouse Score for aboutus.html](docs/screenshots/lighthouse-mobile-signup-feedback.png)
+    ![Mobile Lighthouse Score for aboutus.html](docs/lighthouse/lighthouse-mobile-signup-feedback.png)
 
 
 #### ***Desktop Version:***
