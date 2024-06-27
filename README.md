@@ -183,7 +183,7 @@ Overall, the "Sign Up" page is a crucial part of the "Hike with Me" website, pro
 
 
 ### **About Us Page Content**
-The "About" page on the "Hike with Me" website by Preetica provides visitors with information about the website's purpose, mission, and the people behind it. Here's a brief overview of its content and features:
+The "About" page on the "Hike with Me" website provides visitors with information about the website's purpose, mission, and the people behind it. Here's a brief overview of its content and features:
 
 Introduction: The page typically begins with an introduction that explains the main purpose of the website. This might include an overview of what "Hike with Me" is about, such as promoting hiking as a recreational activity, encouraging outdoor exploration, and building a community of hiking enthusiasts.
 
