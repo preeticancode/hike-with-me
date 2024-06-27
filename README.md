@@ -38,9 +38,10 @@ This page is dedicated to community of hiking enthusiasts from all across Irelan
 7. [**Deployment**](#deployment)
 8. [**Credits**](#credits)
     * [**Frameworks, Libraries & Programs Used**](#Frameworks-Libraries-&-Programs-Used)
-    * [**Content**](#general-reference)
-    * [**Media**](#content)
-    * [**Honorable mentions**](#media)
+    * [**Content**](#content)
+    * [**Media**](#media)
+    * [**Honorable mentions**](#honorable-mentions)
+    * [**References**](#references)
 
 ## **Planning stage**
 ### **Target Audiences:**
