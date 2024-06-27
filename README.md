@@ -355,3 +355,11 @@ I would like to take the opportunity to thank:
 - To the lovely people on the Code Institute Slack for providing peer code reviews.
 - My friends and community memebers who are part of HIKE WITH ME.
 ***
+
+### **References**
+Code institute Learning Materials
+
+Code Institute Walkthrough projec: Love Running.
+
+My Mentors Project : Modern Buddhism
+***
