@@ -7,10 +7,10 @@
       * [*HTML*](#html---httpsvalidatorw3orgnu)
       * [*CSS*](#css---httpsjigsaww3orgcss-validator)
   * [**Lighthouse Scores**](#lighthouse-scores)
-      * [*Desktop Version:*](#desktop-version)
       * [*Mobile Version*](#mobile-version)
-      * [*Lighthouse Score Feedback From Third Party Testers*](#lighthouse-score-feedback-from-third-party-testers)
+      * [*Desktop Version:*](#desktop-version)
   * [**Accessability**](#accessability)
+  * [**Unfixed Bug**](#unfixed-bug)
 
 ## **During Development Testing**
 During the development process, I was manually testing in the following ways:-
@@ -117,28 +117,35 @@ Below is a list of bugs I found during the development process by testing myself
 
 #### ***Desktop Version:***
 1. ***index.html:***
-    ![Desktop Lighthouse Score for index.html](docs/screenshots/lighthouse-desktop-index.png) 
+    ![Desktop Lighthouse Score for index.html](docs/lighthouse/lighthouse-desktop-index.png) 
 
 2. ***gallery.html:***
 
-    ![Desktop Lighthouse Score for gallery.html](docs/screenshots/lighthouse-desktop-gallery.png)
+    ![Desktop Lighthouse Score for gallery.html](docs/lighthouse/lighthouse-desktop-gallery.png)
     I found the performance score on this page lower due to the multiple pictures.  I used https://tinypng.com/ to compress the images on this page
 
 3. ***signup.html:***
 
-    ![Desktop Lighthouse Score for signup.html](docs/screenshots/lighthouse-desktop-signup.png) 
+    ![Desktop Lighthouse Score for signup.html](docs/lighthouse/lighthouse-desktop-signup.png) 
 
 4. ***aboutus.html:***
 
-    ![Desktop Lighthouse Score for aboutus.html](docs/screenshots/lighthouse-desktop-aboutus.png)
+    ![Desktop Lighthouse Score for aboutus.html](docs/lighthouse/lighthouse-desktop-aboutus.png)
 
 5. ***signup-feedback.html:***
 
-    ![Desktop Lighthouse Score for aboutus.html](docs/screenshots/lighthouse-desktop-signup-feedback.png)
+    ![Desktop Lighthouse Score for aboutus.html](docs/lighthouse/lighthouse-desktop-signup-feedback.png)
 
 
   
 ### **Accessability**
 In addition to the accessability score on light house I also used [WAVE - Web accessability evaluation tool](https://wave.webaim.org/) to check my pages for accessability and no errors were returned.
 ***   
+
+
+### **Unfixed bugs**
+Migration from a personal email address to a student Google Workspace email address for your GitHub and Gitpod accounts caused some confusion, especially regarding your GitHub contributions.
+![unfixed bug pic](docs/screenshots/unfixedbug.png)
+***
+
 [return to README.md](README.md)
