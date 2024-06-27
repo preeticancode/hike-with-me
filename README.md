@@ -37,10 +37,10 @@ This page is dedicated to community of hiking enthusiasts from all across Irelan
 6. [**Testing Phase**](#testing-phase)
 7. [**Deployment**](#deployment)
 8. [**Credits**](#credits)
-    * [**Honorable mentions**](#honorable-mentions)
-    * [**General reference**](#general-reference)
-    * [**Content**](#content)
-    * [**Media**](#media)
+    * [**Frameworks, Libraries & Programs Used**](#Frameworks-Libraries-&-Programs Used)
+    * [**Content**](#general-reference)
+    * [**Media**](#content)
+    * [**Honorable mentions**](#media)
 
 ## **Planning stage**
 ### **Target Audiences:**
@@ -230,9 +230,7 @@ Overall, the "Sign Up Feedback" page is designed to confirm the successful regis
 ![Sign Up feedback content](docs/screenshots/signup-feedback-content.png)
 
 ## **Future-Enhancements**
-
 Enhancing the "Hike with Me" website's in future can improve user engagement, provide better information, and create a more interactive experience. Here are some features I think can be good  for future enhancements:
-
 1. Interactive Map
 Feature: Interactive map that highlights popular hiking trails.
 Benefit: Users can visualize and explore different hiking locations.
@@ -279,6 +277,7 @@ Benefit: Educates users on how to minimize their environmental impact while enjo
 Feature: Integrating social media feeds and sharing buttons.
 Benefit: Encourages social sharing and increases the website’s reach.
 By implementing these enhancements, the "Hike with Me" homepage can become a more engaging, informative, and user-friendly platform for hiking enthusiasts.
+***
 
 ## **Testing Phase**
 I have included details of testing both during development and post development in a separate document called [TESTING.md](TESTING.md).
@@ -296,11 +295,9 @@ The site was deployed to GitHub pages. The steps taken to deploy are as follows:
 
 The link to the live website is here:
 https://preeticancode.github.io/hike-with-me/
-
-
+***
 
 ## **Credits**
-
 ### **Frameworks, Libraries & Programs Used**
 Balsamiq - Used to create wireframes.
 
@@ -354,15 +351,4 @@ I would like to take the opportunity to thank:
   time to work on my project.
 - To the lovely people on the Code Institute Slack for providing peer code reviews.
 - My friends and community memebers who are part of HIKE WITH ME.
-
-
-  
-
-
-
-
-
-
-
-[def]: /workspace/my-kitchen/documents/responsive.png
-[def2]: #features
+***
