@@ -52,7 +52,7 @@ header {
     position: absolute;
     white-space: nowrap; 
     width: 1px;
-  }
+}
 
 header a {
     text-decoration: none;
@@ -65,7 +65,7 @@ header a {
     list-style-type: none;
 }
 
-#menu>li {
+#menu > li {
     margin-bottom: 1em;
 }
 
@@ -86,7 +86,7 @@ nav {
 }
 
 /* Nav toggle */
-#nav-toggle:checked~nav {
+#nav-toggle:checked ~ nav {
     display: block;
 }
 
@@ -136,6 +136,7 @@ main {
     width: 100%;
     background: url("../images/hero-image.webp") no-repeat center center/cover;
     position: relative;
+    overflow: hidden; /* Prevent horizontal scrolling */
 }
 
 #cover-text {
@@ -150,8 +151,8 @@ main {
     padding-left: 40px;
 }
 
-#cover-text>h2,
-#cover-text>h3 {
+#cover-text > h2,
+#cover-text > h3 {
     color: #ffffff;
 }
 
@@ -168,8 +169,8 @@ main {
     text-align: left;
 }
 
-#benefits-physical>div,
-#benefits-mental>div {
+#benefits-physical > div,
+#benefits-mental > div {
     line-height: 20px;
     margin-bottom: 20px;
     text-align: left;
@@ -247,8 +248,8 @@ main {
     text-align: left;
 }
 
-#mission-one>div,
-#mission-two>div {
+#mission-one > div,
+#mission-two > div {
     line-height: 20px;
     margin-bottom: 20px;
     text-align: left;
@@ -340,11 +341,11 @@ main {
     padding: 50px;
     margin-top: 20%;
 }
-#signup-form-button{
+#signup-form-button {
     display: flex;
     justify-content: center;
 }
-#signup-form>h2 {
+#signup-form > h2 {
     color: #4a1111;
     margin-bottom: 20px;
 }
@@ -425,7 +426,7 @@ footer {
         display: flex;
     }
 
-    #menu>li {
+    #menu > li {
         padding-left: 1rem;
     }
 
@@ -459,12 +460,12 @@ footer {
         width: 100%;
     }
 
-    #benefits-physical>div,
-    #benefits-mental>div {
+    #benefits-physical > div,
+    #benefits-mental > div {
         width: 75%;
     }
 
-    #benefits-mental>div {
+    #benefits-mental > div {
         text-align: end;
         align-self: flex-end;
     }
@@ -489,10 +490,11 @@ footer {
     .text-input:hover {
         border-color: #f16c6b;
     }
+}
 
 /* Large devices (laptops and desktops, 992px and up) */
 @media screen and (min-width: 992px) {
-    #menu a:hover{
+    #menu a:hover {
         border-bottom: 1px solid #3a3a3a;
     }
 
@@ -502,7 +504,8 @@ footer {
     }
 }
 
-@media screen and (min-width: 1200px) {    
+/* Extra large devices (1200px and up) */
+@media screen and (min-width: 1200px) {
     /* Reasons section */
     #benefits {
         display: flex;
@@ -514,7 +517,7 @@ footer {
     }
 
     #benefits-image {
-        order: 0
+        order: 0;
     }
 
     #benefits-mental {
@@ -529,9 +532,8 @@ footer {
         align-self: flex-end;
     }
 }
-}
 @media (max-width: 767px) {
     #hero {
-        width: 94% !important;
+        width: 95% !important;
     }
 }
