@@ -535,5 +535,6 @@ footer {
 @media (max-width: 767px) {
     #hero {
         width: 95% !important;
+        margin-left: 1%;
     }
 }
