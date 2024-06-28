@@ -530,3 +530,8 @@ footer {
     }
 }
 }
+@media (max-width: 767px) {
+    #hero {
+        width: 94% !important;
+    }
+}
