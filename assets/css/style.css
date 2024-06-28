@@ -444,8 +444,11 @@ footer {
     main {
         /* Push main content down to accommodate larger header */
         margin-top: 79px;
+        width: 100%;
     }
-
+    #hero {
+        width: 95% !important;
+    }
     /* Hero */
     #cover-text {
         width: 300px;
